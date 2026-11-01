@@ -1,0 +1,20 @@
+test,term,coef,se,ci_low,ci_high,p,n,clusters,r2
+"A1 group: log R/VC on log value, equal weights",lv,-0.018646,0.020876,-0.059563,0.022271,0.37178,33,,0.020692
+"A2 group: log R/VC on log value, revenue weights",lv,-0.027822,0.028067,-0.082833,0.027189,0.32156,33,,0.072261
+"A3 group: as A1, rail-published values only",lv,-0.0037168,0.03014,-0.06279,0.055357,0.90185,28,,0.00076336
+"A4 group: as A1, without coal and motor vehicles",lv,-0.016806,0.022208,-0.060333,0.02672,0.44919,31,,0.015362
+B1 group: log revenue per ton-mile on log value and log cost per ton-mile,lv,-0.053665,0.018523,-0.089969,-0.017361,0.0037642,33,,0.90569
+B1 group: log revenue per ton-mile on log value and log cost per ton-mile,lvc_tm,1.1841,0.1206,0.94768,1.4204,9.4158e-23,33,,0.90569
+C1 group: log freight share of value on log value,lv,-0.64542,0.072338,-0.7872,-0.50364,4.5695e-19,33,,0.79664
+C2 group: log revenue per ton on log value,lv,0.35458,0.072338,0.2128,0.49636,9.4983e-07,33,,0.54179
+C3 group: log tons per car on log value,lv,-0.38422,0.075488,-0.53218,-0.23627,3.584e-07,33,,0.5295
+E1 group: log R/VC on rail share of tonnage,share10,-0.0047892,0.032708,-0.068895,0.059317,0.88359,28,,0.00068241
+E2 group: log R/VC on rail share and log value,share10,-0.0099438,0.025107,-0.059152,0.039264,0.69206,28,,0.002943
+E2 group: log R/VC on rail share and log value,lv,-0.0074309,0.027874,-0.062063,0.047201,0.78979,28,,0.002943
+"E3 group: as E2, revenue weights",share10,-0.03746,0.01744,-0.071642,-0.0032777,0.031721,28,,0.14647
+"E4 group: as E2, without coal",share10,0.034019,0.06262,-0.088714,0.15675,0.58695,27,,0.014755
+"D1 cell: log R/VC on log value, car-group FE, revenue weights",lv,0.046976,0.023892,0.00014832,0.093803,0.049279,1434,33,0.4258
+"D2 cell: as D1, equal weights",lv,0.087244,0.019467,0.049089,0.1254,7.4082e-06,1434,33,0.36233
+"E5 cell: rail share, log value, car-group FE, revenue weights",share10,0.022199,0.020058,-0.017114,0.061512,0.2684,1363,28,0.42874
+"D3 cell: covered hoppers only, revenue weights",lv,0.046176,0.024091,-0.0010411,0.093394,0.05527,225,18,0.22119
+"D3 cell: tank cars only, revenue weights",lv,-0.13541,0.078631,-0.28952,0.018703,0.085051,421,14,0.32785

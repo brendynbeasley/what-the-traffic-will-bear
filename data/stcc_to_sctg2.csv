@@ -1,0 +1,76 @@
+stcc_prefix,sctg2,note
+01,03,farm products not listed below: other agricultural products
+0113,02,field grains (barley corn oats sorghum wheat)
+0114,03,oil seeds (soybeans cottonseed)
+013,03,dry beans and peas
+014,01,live animals
+08,25,forest products in the rough
+09,05,fish and seafood
+10,14,metallic ores
+11,15,coal
+131,16,crude petroleum
+132,19,natural gasoline and gas liquids
+14,13,nonmetallic minerals not listed below
+141,10,dimension stone
+142,12,crushed and broken stone
+144,11,industrial and construction sand
+19,40,ordnance
+20,07,food products not listed below: other prepared foodstuffs and fats and oils
+201,05,meat products
+2014,04,inedible tallow and animal by-products
+2041,06,flour and grain mill products
+2042,04,prepared animal feed
+2043,06,cereal preparations
+2044,06,milled rice
+2045,06,blended flour
+2047,04,pet food
+205,06,bakery products
+2082,08,beer
+20823,04,brewers spent grains (animal feed)
+2083,06,malt
+2084,08,wine
+20851,08,distilled liquors
+20859,04,distillers grains (animal feed)
+20923,04,soybean meal and cake (animal feed)
+20939,04,oilseed meal (animal feed)
+21,09,tobacco products
+22,30,textile mill products
+23,30,apparel and finished textiles
+24,26,lumber and wood products not listed below
+241,25,logs and fuelwood
+25,39,furniture
+26,27,pulp paper and paperboard
+264,28,converted paper products
+265,28,paperboard containers
+27,29,printed matter
+28,23,chemical products not listed below
+281,20,industrial inorganic and organic chemicals
+28125,22,potash (potassium chloride)
+2818170,22,urea
+2818445,17,ethanol (ethyl alcohol)
+2818446,17,ethanol (ethyl alcohol denatured)
+28191,22,ammonium compounds (ammonium sulphate)
+28198,22,anhydrous ammonia
+282,24,plastics materials and synthetic rubber
+283,21,drugs
+286,20,gum and wood chemicals
+287,22,fertilizers
+29,19,petroleum and coal products not listed below
+29111,17,gasoline and jet fuel
+29113,18,distillate fuel oil
+29117,18,residual fuel oil
+30,24,rubber and plastic products
+31,30,leather products
+32,31,stone clay glass and concrete products
+33,32,primary metal products
+34,33,fabricated metal products
+35,34,machinery
+36,35,electrical equipment and appliances
+37,36,transportation equipment not listed below: motor vehicles and parts
+372,37,aircraft
+373,37,ships and boats
+374,37,railroad equipment
+38,38,instruments
+39,40,miscellaneous manufactured products
+40,41,waste and scrap
+48,41,hazardous waste

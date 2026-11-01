@@ -1,0 +1,9 @@
+layer,value,params,levels
+total variance of log R/VC (revenue weighted),0.16737,0,
+share explained by value per ton of the goods,0.016131,1,0
+"share explained by commodity group (SCTG, 2-digit)",0.16408,38,39
+"share explained by commodity (STCC, 5-digit)",0.32303,366,367
+share explained by commodity x car type,0.3517,616,617
+share left between R/VC bands within commodity x car type,0.6483,0,
+row-bands used,1280,0,
+"revenue covered, $ billion",63.59,0,

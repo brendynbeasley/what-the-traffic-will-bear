@@ -1,0 +1,16 @@
+# Public-use waybill sample (68 MB); src/value_of_service.py downloads it from stb.gov
+data/raw/PublicUseWaybillSample*.zip
+data/raw/*.part
+
+# Secrets
+*.key
+*_key*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

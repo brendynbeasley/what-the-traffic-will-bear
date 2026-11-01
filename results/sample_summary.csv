@@ -1,0 +1,14 @@
+measure,value
+report_revenue_all_musd,79355.8
+report_revenue_released_musd,68216.1
+report_vc_all_musd,50772.3
+released_cells,1559
+non_commodity_revenue_musd,12903.4
+cells_used,1438
+car_groups,16
+revenue_used_musd,55312.7
+vc_used_musd,34379.2
+rvc_used,1.6089
+sctg_groups,34
+report_rvc_all,1.56297
+pigou_linear_implied_elasticity,0.689229

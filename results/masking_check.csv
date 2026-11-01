@@ -1,0 +1,40 @@
+stcc2,label,stb_revenue,puf_revenue,puf_over_stb
+01,Farm Products,7.0209e+06,7.9161e+06,1.1275
+08,Forest Products,,6614.6,
+09,Marine Products,,2116.2,
+10,Metallic Ores,6.6195e+05,7.7572e+05,1.1719
+11,Coal Products,8.1265e+06,9.8662e+06,1.2141
+13,Petroleum Products,8.2377e+05,1.0875e+06,1.3201
+14,Nonmetallic Minerals,3.0347e+06,3.6735e+06,1.2105
+19,Ordnance,,42293,
+20,Food Products,7.9541e+06,9.5163e+06,1.1964
+21,Tobacco Products,,409.48,
+22,Textile Mill Products,14192,21019,1.481
+23,Finished Textiles,4.4668e+05,6.186e+05,1.3849
+24,Wood Products,2.3861e+06,3.2121e+06,1.3461
+25,Furniture,1.9273e+05,2.5686e+05,1.3327
+26,Pulp & Paper Products,2.4955e+06,3.3429e+06,1.3396
+27,Printed Matter,20241,25025,1.2364
+28,Chemical Products,1.3424e+07,1.7281e+07,1.2873
+29,Petroleum or Coal Products,4.111e+06,5.3562e+06,1.3029
+30,Plastic Products,3.698e+05,5.1714e+05,1.3985
+31,Leather Products,,3926.6,
+32,Stone & Glass Products,2.2547e+06,2.8592e+06,1.2681
+33,Metal Products,2.6901e+06,3.6112e+06,1.3424
+34,Fabricated Metal Products,48209,67908,1.4086
+35,Machinery,2.4253e+05,3.1827e+05,1.3123
+36,Electrical Machinery,3.8204e+05,5.0047e+05,1.31
+37,Transportation Equipment,7.3456e+06,1.0047e+07,1.3678
+38,Scientific Instruments,88379,1.1508e+05,1.3021
+39,Miscellaneous Products,67278,88403,1.314
+40,Scrap Materials,1.7616e+06,2.2807e+06,1.2947
+41,Miscellaneous Freight,3.9829e+05,4.9625e+05,1.246
+42,Empty Containers,1.2448e+06,1.6839e+06,1.3528
+43,Express Mail,,,
+44,Freight Forwarder Traffic,4.71e+05,5.5273e+05,1.1735
+45,Shipper Association Traffic,,1051.3,
+46,"Misc Mixed Shipments Exc, Forwarded",1.0563e+07,1.4143e+07,1.3389
+47,Small Packages,,7.3736e+05,
+48,Hazardous Waste,1.0581e+05,1.2942e+05,1.2232
+50,,,180.04,
+ALL,All STCC groups,7.9353e+07,1.0115e+08,1.2747
